@@ -1,11 +1,11 @@
 def resta(x,y):
     return x-y
 
-def suma(x,y):
+def division(x,y):
     """
-    funcion para la suma
+    cambio a divisiones
     """
-    return x+y
+    return x//y
 
 resultado = resta(5,3)
 print(resultado)
